@@ -1,5 +1,4 @@
-# Azure_Data_Science_Learn
-I am currently following the Azure Data Science course on Microsoft Learn, so I will upload all the exercises completed in this repo.
+# Introduction_to_Tensorflow__Learn
+I am following the Udacity course on Deep learning with Tensorflow, so I will upload all the exercises completed in this repo.
 
-#First Exercise
-Design a data ingestion strategy
+
